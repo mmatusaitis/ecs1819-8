@@ -1,0 +1,17 @@
+.jumbotron {
+  font-family: 'Cousine';
+  text-align: center;
+}
+h2 {
+    font-family: 'Cousine';
+    text-align: center;
+}
+img {
+  width: 100%;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
