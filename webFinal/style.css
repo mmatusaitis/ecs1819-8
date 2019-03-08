@@ -1,0 +1,39 @@
+.jumbotron {
+    font-family: 'Kalam', cursive;
+    text-align: center;
+    color: white;
+    font-size: 90px;
+    background-color: #30415D !important;
+}
+.navbar {
+    font-family: 'Kalam', cursive;
+    color: white !important;
+    text-align: center !important;
+    background-color: #031424 !important;
+    font-size: 35px;
+}
+body {
+    background-color: #8EAEBD !important;
+}
+p {
+     font-family: 'Kalam', cursive;
+     color: white;
+     text-align: center;
+}
+
+#description {
+    font-size: 30px;
+}
+.carousel-inner img{
+    width: 500px;
+    
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+#center {
+    text-align:center;
+}
