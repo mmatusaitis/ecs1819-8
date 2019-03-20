@@ -15,3 +15,9 @@ div {
   padding-bottom: 50px;
   padding-left: 80px;
 }
+.navbar {
+    font-family: 'Kalam', cursive;
+    color: white !important;
+    text-align: center !important;
+    background-color: #031424 !important;
+    font-size: 35px;
